@@ -1,6 +1,6 @@
 ## Laravel Developer Assignment
 
-###How to start the project </br>
+### How to start the project </br>
 <ul>
     <li>First clone the project</li>
     <li>composer update</li>
